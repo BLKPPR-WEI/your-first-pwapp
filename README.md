@@ -1,3 +1,11 @@
+1. Unpack the downloaded zip file.(or clone the repository)
+2. Run npm install to install the dependencies required to run the server.
+3. Edit server.js and set your DarkSky API key.
+4. Run node server.js to start the server on port 8000.
+5. Open a browser tab to http://localhost:8000
+
+
+
 # Your First Progressive Web App Codelab
 
 These are the resource files needed for the
